@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/feign-comsumer/feign-comsumer.iml" filepath="$PROJECT_DIR$/feign-comsumer/feign-comsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-provider/feign-provider.iml" filepath="$PROJECT_DIR$/feign-provider/feign-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-server/feign-server.iml" filepath="$PROJECT_DIR$/feign-server/feign-server.iml" />
+    </modules>
+  </component>
+</project>
