@@ -8,12 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="feign-comsumer" />
         <module name="feign-provider" />
+        <module name="feign-provider2" />
+        <module name="feign-provider3" />
         <module name="feign-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="feign-comsumer" target="1.8" />
       <module name="feign-provider" target="1.8" />
+      <module name="feign-provider2" target="1.8" />
+      <module name="feign-provider3" target="1.8" />
       <module name="feign-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>

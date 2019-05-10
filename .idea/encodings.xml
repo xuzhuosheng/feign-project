@@ -3,6 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/feign-comsumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feign-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-provider2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-provider3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-provider3" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feign-server" charset="UTF-8" />
   </component>
 </project>

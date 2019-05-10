@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/feign-comsumer/feign-comsumer.iml" filepath="$PROJECT_DIR$/feign-comsumer/feign-comsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/feign-provider/feign-provider.iml" filepath="$PROJECT_DIR$/feign-provider/feign-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-provider2/feign-provider2.iml" filepath="$PROJECT_DIR$/feign-provider2/feign-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-provider3/feign-provider3.iml" filepath="$PROJECT_DIR$/feign-provider3/feign-provider3.iml" />
       <module fileurl="file://$PROJECT_DIR$/feign-server/feign-server.iml" filepath="$PROJECT_DIR$/feign-server/feign-server.iml" />
     </modules>
   </component>

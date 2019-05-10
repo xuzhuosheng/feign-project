@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/feign-server/pom.xml" />
         <option value="$PROJECT_DIR$/feign-provider/pom.xml" />
         <option value="$PROJECT_DIR$/feign-comsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-provider2/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-provider3/pom.xml" />
       </list>
     </option>
   </component>
